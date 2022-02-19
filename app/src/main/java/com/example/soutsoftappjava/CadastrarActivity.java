@@ -13,7 +13,7 @@ import com.google.firebase.auth.FirebaseAuth;
 public class CadastrarActivity extends AppCompatActivity {
     private ActivityCadastrarBinding binding;
 
-    private FirebaseAuth mAuth;//Importa o firebase
+    private FirebaseAuth mAuth;//Inicia o firebase
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
