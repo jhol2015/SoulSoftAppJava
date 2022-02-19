@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SoutSoftAppJava</string>
+    <string name="logoinicial">LogoInicial</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login_titulo">Login</string>
+    <string name="n_o_possui_conta">Não possui conta?</string>
+    <string name="esqueceu_a_senha">Esqueceu a senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="seu_nome">Seu nome</string>
+    <string name="nome">Nome</string>
+    <string name="sua_senha">Sua senha</string>
+    <string name="indo_as_compras">Indo as compras</string>
+    <string name="app_sousoft">App SouSoft</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome_completo">Nome Completo</string>
+</resources>
