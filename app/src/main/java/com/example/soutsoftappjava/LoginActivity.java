@@ -10,7 +10,6 @@ import com.example.soutsoftappjava.databinding.ActivityLoginBinding;
 public class LoginActivity extends AppCompatActivity {
     private ActivityLoginBinding binding;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
