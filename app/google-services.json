@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55959829416",
+    "project_id": "soulsoft-cdbc0",
+    "storage_bucket": "soulsoft-cdbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55959829416:android:8cde67a078000a02813b9d",
+        "android_client_info": {
+          "package_name": "com.example.soutsoftappjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55959829416-st9npu2fd215kekvbjobt88hvmpgpimv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soutsoftappjava",
+            "certificate_hash": "2ca27b7d3815615a5fff27a789ce3c7c6c82d1f6"
+          }
+        },
+        {
+          "client_id": "55959829416-o5jv3ch02usn7u2ln71d3e5gscfrms12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtTIsC-o3AHur_FQP4UewJnsySC3n2sbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55959829416-o5jv3ch02usn7u2ln71d3e5gscfrms12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
